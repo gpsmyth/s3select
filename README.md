@@ -6,7 +6,7 @@
 - In a created directory
   - Create your data.csv file
   - `python3 -m venv s3select_example/env`
-  - `source ~s3select_example/env/bin/activate`
+  - `source s3select_example/env/bin/activate`
   - `pip3 install boto3`
 
 ## S3 side
